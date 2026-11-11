@@ -1,0 +1,29 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.psd binary
+*.hdr binary
+*.exr binary
+*.dds binary
+*.ktx binary
+*.ktx2 binary
+*.pvr binary
+*.glb binary
+*.bin binary
+*.fbx binary
+*.otf binary
+*.ttf binary
+*.ttc binary
+*.wav binary
+*.flac binary
+*.mp3 binary
+*.ogg binary
+*.zip binary
